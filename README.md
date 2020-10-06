@@ -20,3 +20,7 @@ Third line: Changes the resolution back to the original one (my screen has a res
 
 # Ingame
 - Don't forget to change your ingame resolution to the resolution you entered in the first line
+
+
+# Thank you
+- Thanks to [Qres](http://qres.sourceforge.net/)
