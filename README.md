@@ -18,5 +18,5 @@ Second line: Replace `D:\Program Files (x86)\Genshin Impact\` with your install 
 Third line: Changes the resolution back to the original one (my screen has a resolution of 1920x1080)
 
 
-#Ingame
+# Ingame
 - Don't forget to change your ingame resolution to the resolution you entered in the first line
